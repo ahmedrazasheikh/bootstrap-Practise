@@ -1,0 +1,10 @@
+Text Color
+.text-danger
+.text-primary
+
+gutter is use to add Margin and Padding
+
+
+In Flex
+col From coulm 
+row for Row 
